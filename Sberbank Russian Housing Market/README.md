@@ -4,7 +4,7 @@
 
 Competition page: https://www.kaggle.com/c/sberbank-russian-housing-market
 
-# Goals for now:
+### Goals for now:
 
 1) Understand what's the best way to handle missing values in the competition:
 
