@@ -4,7 +4,7 @@
 
 Competition page: https://www.kaggle.com/c/sberbank-russian-housing-market
 
-Results:
+**Notebooks:**
 
 1. **Sqaure_Analysis.ipynb** - full_sq, life_sq and kitch_sq NANs are filled in, incorrect data becomes more sensible after pipeline processing.
 
